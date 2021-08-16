@@ -17,4 +17,3 @@ for item in links:
         print(item_text)
         print(item_href)
 
-print(soup)
